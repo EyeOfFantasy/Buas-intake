@@ -7,8 +7,6 @@
 			"files": [
 				"D:/school/2022-2023/Buas-intake/Orentation day/Orientation/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
 				"D:/school/2022-2023/Buas-intake/Orentation day/Orientation/Content/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/school/2022-2023/Buas-intake/Orentation day/Orientation/Content/__ExternalActors__/Maps/L_DoItYourself/6/7K/MKWAFAUR7TKZWJT8DT5VAF.uasset",
-				"D:/school/2022-2023/Buas-intake/Orentation day/Orientation/Content/__ExternalActors__/Maps/L_DoItYourself/0/CA/3QS23K6IGLTL5SPZO9OEM8.uasset",
 				"D:/school/2022-2023/Buas-intake/Orentation day/Orientation/Content/__ExternalActors__/Maps/L_DoItYourself/2/GU/1560BU5F432Z8K3KKFWSZ5.uasset",
 				"D:/school/2022-2023/Buas-intake/Orentation day/Orientation/Content/__ExternalActors__/Maps/L_DoItYourself/2/X0/9QMEIB7QBXG6A6DC9YA6HK.uasset",
 				"D:/school/2022-2023/Buas-intake/Orentation day/Orientation/Content/__ExternalActors__/Maps/L_DoItYourself/2/ZJ/2IV7P3S3A48JGBZK7K02SM.uasset",
@@ -38,6 +36,13 @@
 				"D:/school/2022-2023/Buas-intake/Orentation day/Orientation/Content/__ExternalActors__/Maps/L_DoItYourself/9/MB/IICYEH6CO1JYTMB81C1KKC.uasset",
 				"D:/school/2022-2023/Buas-intake/Orentation day/Orientation/Content/__ExternalActors__/Maps/L_DoItYourself/2/8Y/BKQ6O8U5L7FDDSPJDUUS89.uasset",
 				"D:/school/2022-2023/Buas-intake/Orentation day/Orientation/Content/__ExternalActors__/Maps/L_DoItYourself/5/U6/AQ9Q9VJLLEG7ZA43ROG5A9.uasset",
+				"D:/school/2022-2023/Buas-intake/Orentation day/Orientation/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/school/2022-2023/Buas-intake/Orentation day/Orientation/Content/Blueprints/BP_Restart_Volume.uasset",
+				"D:/school/2022-2023/Buas-intake/Orentation day/Orientation/Content/Blueprints/CharaterSpawn.uasset",
+				"D:/school/2022-2023/Buas-intake/Orentation day/Orientation/Content/__ExternalActors__/Maps/L_DoItYourself/C/WC/9AO705L94ZUYSIWHPBAXHK.uasset",
+				"D:/school/2022-2023/Buas-intake/Orentation day/Orientation/Content/Blueprints/Time.uasset",
+				"D:/school/2022-2023/Buas-intake/Orentation day/Orientation/Content/__ExternalActors__/Maps/L_DoItYourself/6/7K/MKWAFAUR7TKZWJT8DT5VAF.uasset",
+				"D:/school/2022-2023/Buas-intake/Orentation day/Orientation/Content/__ExternalActors__/Maps/L_DoItYourself/0/CA/3QS23K6IGLTL5SPZO9OEM8.uasset",
 				"D:/school/2022-2023/Buas-intake/Orentation day/Orientation/Content/Blueprints/Timer.uasset"
 			]
 		}
